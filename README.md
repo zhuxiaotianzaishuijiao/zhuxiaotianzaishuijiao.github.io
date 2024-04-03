@@ -5,12 +5,12 @@
 
 # I'm Xiaotian Zou<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently studying at **University of Exeter**
+- 🔭 I’m currently a PhD student (first year) studying at **University of Exeter**
 - 🌱 I’m currently learning **LLMs**
 - 👯 Currently working in **NanTong, China**
 - 🤔 I love **Reading, photography**
 - 📫 How to reach me: **xz549@exeter.ac.uk**
-- ⚡ Fun fact: **LOL, Movie**
+- ⚡ Fun fact: **moive, gym**
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
